@@ -48,3 +48,5 @@ $ irb
   > load "sopra.rb"
   > Sopra.decrypt!("SHXPQ JDIAJK!")
 ```
+
+The actual full solution is the last example in the spec file.
